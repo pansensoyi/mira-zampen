@@ -34,7 +34,7 @@ If an office shows 0 rows, run `npm run setup` to see the exact names the API us
 **Option A: connect GitHub (auto-deploys on every push)**
 1. Go to dash.cloudflare.com, then Workers & Pages, then Create, then Import a repository.
 2. Pick this repo. Build command: `npm run build`. Deploy command: `npx wrangler deploy`.
-3. Deploy. You get `https://portal.zampen-budget-ph.workers.dev`.
+3. Deploy. You get `https://transparency-portal.zampen.workers.dev`.
 
 **Option B: from your laptop**
 ```bash
