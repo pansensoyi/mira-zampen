@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Mira ZamPen vinta mark">
+  <defs>
+    <clipPath id="sail"><path d="M30 6 L30 44 L6 44 Q14 24 30 6 Z M34 10 L34 44 L58 44 Q50 26 34 10 Z"/></clipPath>
+  </defs>
+  <g clip-path="url(#sail)">
+    <rect x="0" y="0" width="64" height="8.5" fill="#d7263d"/>
+    <rect x="0" y="8.5" width="64" height="8.5" fill="#f4b400"/>
+    <rect x="0" y="17" width="64" height="8.5" fill="#1c9a5b"/>
+    <rect x="0" y="25.5" width="64" height="8.5" fill="#1b5fbf"/>
+    <rect x="0" y="34" width="64" height="10" fill="#8e2c8f"/>
+  </g>
+  <rect x="31" y="4" width="2" height="44" fill="#0b3b4f"/>
+  <path d="M4 48 H60 Q54 58 40 58 H24 Q10 58 4 48 Z" fill="#0b3b4f"/>
+</svg>
