@@ -38,7 +38,7 @@ export default defineConfig({
   operator: { name: 'Mira ZamPen volunteers', url: 'https://github.com/pansensoyi' },
   logo: '/brand/mira-zampen.svg',
   // Set this to your Cloudflare URL or custom domain after the first deploy.
-  // siteUrl: 'https://mira-zampen.<your-subdomain>.workers.dev',
+  siteUrl: 'https://portal.zampen-budget-ph.workers.dev',
   buildYourOwnStrip: false,
   brand: {
     title: 'Mira ZamPen',
